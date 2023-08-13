@@ -1,20 +1,20 @@
 {
   "projects": [
-    { 
+    {
       "id": "1",
-      "title": "Project 1",
-      "description": "This is project 1",
-      "image": "http://placehold.it/350x150",
-      "code": "http://github.com",
-      "demo": "http://google.com"
+      "title": "React Typing Game",
+      "description": "Typing game made in React. This app allows you to practice your typing skills by typing the word on the screen. Users can then see their words per minute displayed on screen.",
+      "image": "./images/typinggame.png",
+      "code": "https://github.com/ellioht/typing-game",
+      "demo": "https://ellioht.github.io/typing-game/"
     },
-    { 
+    {
       "id": "12",
-      "title": "Project 2",
-      "description": "This is project 2",
-      "image": "http://placehold.it/350x150",
-      "code": "http://github.com",
-      "demo": "http://google.com"
+      "title": "Next.js Pokemon Game",
+      "description": "Pokemon guessing game built with Next.js and PokeAPI. To play this game users must choose between 2 pokemon on if they think they came before the other on the Pokedex.",
+      "image": "./images/pokemongame.png",
+      "code": "https://github.com/ellioht/next-pokemon-game",
+      "demo": "https://next-pokemon-game.vercel.app/"
     }
   ]
 }
